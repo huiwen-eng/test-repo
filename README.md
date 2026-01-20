@@ -19,3 +19,8 @@ etc
     <span style="margin-left:48px;">wubble</span>
 </p>
 
+---
+
+## Goodbye
+
+Thank you for visiting this repository! We hope you found the information helpful. If you have any questions or feedback, please feel free to open an issue or submit a pull request. Happy coding!

@@ -1,5 +1,7 @@
 # test-repo
 
+hi
+
 A Git(Hub) Test Repository
 
 `git clone https://github.com/zpqrtbnk/test-repo.git .`
